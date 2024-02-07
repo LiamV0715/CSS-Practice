@@ -1,0 +1,21 @@
+
+h1, h2 {
+    color: blue;
+}
+
+p {
+    color: gold;
+}
+
+#paragraph {
+    font-size: 36px;
+}
+
+#red {
+    color: red;
+}
+
+#fancyh2 {
+    color: red;
+    font-size: 50px;
+}
